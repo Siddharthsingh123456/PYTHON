@@ -1,6 +1,6 @@
 # OpenCV Practical Exercises – Assignment 14
 
-This repository contains the implementation of all practical exercises from **Module 18: OpenCV** as part of the Python Course Assignment 14.
+This repository contains the implementation of all practical exercises from **Module 22: OpenCV** as part of the Python Course Assignment 14.
 
 ## 📚 Description
 
@@ -82,5 +82,5 @@ This project is submitted as a zipped folder / PDF uploaded to Google Drive as p
 ## 🧑‍💻 Author
 
 * **Course**: Python- Module 22
-* **Assignment**: Assignment 11- OpenCV Module Implementation
+* **Assignment**: Assignment 14- OpenCV Module Implementation
 
