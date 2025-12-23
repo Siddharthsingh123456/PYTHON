@@ -1,6 +1,6 @@
 # Assignment 7 - Student Management System
 
-This repository contains is a comprehensive student management system built with Python, Tkinter, and PostgreSQL for managing student information and grades, as part of **Module 12: Building Database Apps with PostgreSQL & Python**.
+This repository contains is a comprehensive student management system built with Python, Tkinter, and PostgreSQL for managing student information and grades, as part of **Module 16: Building Database Apps with PostgreSQL & Python**.
 
 ## Features
 
