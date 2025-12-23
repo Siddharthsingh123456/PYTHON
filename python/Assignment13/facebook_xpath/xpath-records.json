@@ -1,0 +1,57 @@
+{
+  "exportedAt": "2025-09-25T14:17:19.200Z",
+  "items": [
+    {
+      "id": "xr_1758809817837_1819",
+      "rect": {
+        "height": 123,
+        "left": 425.484375,
+        "top": 323.078125,
+        "width": 500
+      },
+      "timestamp": "2025-09-25T14:16:57.837Z",
+      "url": "https://www.facebook.com/",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "screenshotFilename": "screenshot-1-xr_1758809817837_1819.png"
+    },
+    {
+      "id": "xr_1758809821836_8856",
+      "rect": {
+        "height": 22.765625,
+        "left": 501.484375,
+        "top": 343.6875,
+        "width": 396
+      },
+      "timestamp": "2025-09-25T14:17:01.836Z",
+      "url": "https://www.facebook.com/",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
+      "screenshotFilename": "screenshot-2-xr_1758809821836_8856.png"
+    },
+    {
+      "id": "xr_1758809825765_9270",
+      "rect": {
+        "height": 28,
+        "left": 441.5,
+        "top": 225.5625,
+        "width": 468
+      },
+      "timestamp": "2025-09-25T14:17:05.765Z",
+      "url": "https://www.facebook.com/",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+      "screenshotFilename": "screenshot-3-xr_1758809825765_9270.png"
+    },
+    {
+      "id": "xr_1758809828760_2633",
+      "rect": {
+        "height": 10.984375,
+        "left": 450.5,
+        "top": 478,
+        "width": 450
+      },
+      "timestamp": "2025-09-25T14:17:08.760Z",
+      "url": "https://www.facebook.com/",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "screenshotFilename": "screenshot-4-xr_1758809828760_2633.png"
+    }
+  ]
+}
