@@ -81,7 +81,6 @@ This project is submitted as a zipped folder / PDF uploaded to Google Drive as p
 
 ## 🧑‍💻 Author
 
-* **Name**: *Ranit Saha ([Coderooz](https://github.com/coderooz))*
-* **Course**: Python Course Tutedude - Module 18
-* **Assignment**: Assignment 14 - OpenCV Module Implementation
+* **Course**: Python- Module 22
+* **Assignment**: Assignment 11- OpenCV Module Implementation
 
