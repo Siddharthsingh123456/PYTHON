@@ -1,0 +1,10 @@
+import os
+
+
+class Config:
+    SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret")
+    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL", "sqlite:///saas.db")
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY", "jwt-dev-secret")
+    REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
+    STRIPE_SECRET_KEY = os.getenv("STRIPE_SECRET_KEY", "")
